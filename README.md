@@ -20,7 +20,7 @@ Bu uygulama, React Native kullanılarak geliştirilmiş bir cüzdan yönetimi uy
 
 ---
 
-## 📫 Bana Ulaş
+## 📫 Contact
 
 - 📧 Mail: **emirkuloglu34@gmail.com**
 
