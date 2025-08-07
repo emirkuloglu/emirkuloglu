@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,dotnet,react,ts,js,css,nodejs,androidstudio,appwrite,express,firebase,redis,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,react,ts,js,css,nodejs,androidstudio,appwrite,firebase,redis,tailwind,git,github" />
 </div>
 
 ---
