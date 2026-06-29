@@ -6,7 +6,7 @@
 
 ## 🧰 Featured Projects
 
-### 💼 Social Media App
+### 🌐 Social Media App
 It is a social media application developed using React Native. Users can log in/out. New users can be created. It is a simple social media application where photos can be shared, comments can be made, and can be saved.
 🔗 [Go to Repo](https://github.com/emirkuloglu/Social-Media-App-React-Native)
 
