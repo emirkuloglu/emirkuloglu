@@ -6,6 +6,12 @@
 
 ## 🧰 Featured Projects
 
+### 💼 Social Media App
+It is a social media application developed using React Native. Users can log in/out. New users can be created. It is a simple social media application where photos can be shared, comments can be made, and can be saved.
+🔗 [Go to Repo](https://github.com/emirkuloglu/Social-Media-App-React-Native)
+
+---
+
 ### 💼 Wallet App
 This application is a wallet management app developed using React Native. Users can log in and log out. New users can be created. They can add their income and expenses and manage their wallet.
 🔗 [Go to Repo](https://github.com/emirkuloglu/Wallet-App-React-Native)
